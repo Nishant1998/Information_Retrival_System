@@ -1,0 +1,20 @@
+Q01	What are diffrent vitamins and their deficiency diseases
+Q02	What are diffrent programming language? 
+Q03	similarity between cyber security and information security
+Q04	qubit by qubit introduction to quantum computing. 
+Q05	What are diffrent sorting algorithms?
+Q06	How Gradient Descent And Stochastic Gradient Descent Methods Solve Optimization Problem
+Q07	time complexity of tree traversal
+Q08	What is the most venomous snake on earth? Be aware of the snakes!!
+Q09	genetic algorithm in machine learning techniques 
+Q10	The Migration of Birds : Why Birds Migratory? How are top migratory birds in the world.
+Q11	Mahabharat war between adharma and dharma.
+Q12	what is a neurological disorder 
+Q13	Chhatrapati Shivaji Maharaj
+Q14	why deep learning is so popular now a days
+Q15	Hanuman was infuriated by Ravana's arrogance owning to the fact that Ravana belonged to a noble lineage and yet commited heinous crimes. Hanuman believed that Ravana had to be taught a lesson, and so the destruction of Ashok vatika snowballed into burning of entire Lanka
+Q16	beaches in india to visit
+Q17	History of panhala fort.
+Q18	symptoms of covid-19 coronavirus 
+Q19	What are the greatest books ever written that one shouldn't miss?
+Q20	What are the top 10 most common cancers?
